@@ -1,0 +1,15 @@
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\bin\Debug\ZachDemo.exe.config
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\bin\Debug\ZachDemo.exe
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\bin\Debug\ZachDemo.pdb
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\ZachDemo.csprojResolveAssemblyReference.cache
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\MainWindow.baml
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\Themes\DarkTheme.baml
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\App.baml
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\MainWindow.g.cs
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\App.g.cs
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\ZachDemo_MarkupCompile.cache
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\ZachDemo.g.resources
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\ZachDemo.Properties.Resources.resources
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\ZachDemo.csproj.GenerateResource.Cache
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\ZachDemo.exe
+C:\Nightmare Games\Programs\WPF\ZachDemo\ZachDemo\ZachDemo\obj\Debug\ZachDemo.pdb
